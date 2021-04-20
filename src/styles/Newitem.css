@@ -1,0 +1,20 @@
+.lmj-newPlant{
+    display: flex;
+    background-color: cornsilk;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.lmj-newPlant-cover{
+    height: 250px;
+	width: 250px;
+	object-fit: cover;
+}
+
+.lmj-newPlant-legend{
+    padding: 32px;
+}
+.even-nb{
+    order: 2;
+}
