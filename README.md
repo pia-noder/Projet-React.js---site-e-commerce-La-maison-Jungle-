@@ -1,3 +1,35 @@
+# 'La Maison Jungle'
+    Ce site est un site e-commerce développer comme premier projet React.js. 
+    Uniqument la partie frontend a été codée (les données nécessaires à son fonctionnement sont stockées dans des fichiers JS).
+    Ce site étant à but d'aprentissage les fonctionnalitées y sont peu nombreuses.
+    Voici les fonctionnalitées mises en place :
+
+    * Barre de navigation :
+    ...Affichage du logo (au clic retour sur la page d'accueil)
+    ...Le menu permet de naviguer facilement entre les pages Produits/ A propos / User et Panier
+
+    *Page d'accueil :
+    ...on doit retrouver un edito (un petit paragraphe susceptible de changer de façon hebdomadaire)
+    ...Afficher les produits les plus vendus du site (top 3 - 4);
+    ...Afficher les nouveaux produits
+    ...Afficher les propositions de valeurs principales de l'entreprise
+    ...Afficher les meilleurs avis clients (environs 3 - 4)
+
+    *Pied de Page :
+    ...Afficher des liens vers la page de contact / les mentions légales / le suivit de livraison
+    ...Afficher une phrase resument les valeurs de l'entreprise
+
+    *Page Panier 
+    ...Récapitule le contenu du panier
+    ...Bouton incitatif "commander" pour finaliser la commande
+    ...Possibilité de supprimer un article du panier
+    ...Possibilité d'augmenter/diminuer la quantité de produit
+
+    *Page produit
+    ...Affiche tous les produits
+    ...Possibilité de cibler des catégories.
+# Stack : React.js React Router 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,32 +71,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
