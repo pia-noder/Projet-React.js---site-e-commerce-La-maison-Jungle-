@@ -1,0 +1,29 @@
+.comment-wrapper{
+    margin: auto;
+    max-width: 900px;
+    width: 90%;
+    display: flex;
+}
+.avatar{
+    width: 10%;
+}
+.avatarimg{
+    max-width: 50px;
+    width: 100%;
+}
+.textarea-outer-wrapper{
+    width: 80%;
+}
+.textarea-wrapper{
+    width: 100%;
+}
+textarea{
+    width: 100%;
+    min-height: 5vh;
+}
+.post-action{
+    padding: 5px;
+}
+.post-action__icon{
+    display: flex;
+}

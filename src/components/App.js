@@ -5,6 +5,7 @@ import Banner from './banner.js'
 import Home from './Home.js'
 import Cart from './Cart.js'
 import ShoppingList from './ShoppingList'
+import About from './About'
 import Footer from './Footer'
 import {useState, useEffect} from 'react'
 import '../styles/Layout.css'
@@ -35,6 +36,11 @@ function App() {
           </Route>
           <Route path="/cart">
             <Cart  
+              cart={cart} updateCart={updateCart}
+            />
+          </Route>
+          <Route path="/about">
+            <About  
               cart={cart} updateCart={updateCart}
             />
           </Route>

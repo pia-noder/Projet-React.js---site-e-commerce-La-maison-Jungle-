@@ -1,0 +1,21 @@
+.lmj-about{
+    margin: auto;
+    max-width: 1200px;
+}
+.lmj-headerQui{
+    text-align: left;  
+}
+.lmj-mission{
+    text-align: right;
+}
+.lmj-imgQui, .lmj-imgMission{
+    width: 50%;
+    margin: auto;
+}
+.lmj-moreInfo{
+    display: flex;
+    justify-content: space-around;
+}
+.lmj-marque, .lmj-conseils{
+    padding: 37px;
+}

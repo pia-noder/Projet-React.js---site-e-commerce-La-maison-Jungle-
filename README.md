@@ -4,30 +4,30 @@
     Ce site étant à but d'aprentissage les fonctionnalitées y sont peu nombreuses.
     Voici les fonctionnalitées mises en place :
 
-    * Barre de navigation :
-    ...Affichage du logo (au clic retour sur la page d'accueil)
-    ...Le menu permet de naviguer facilement entre les pages Produits/ A propos / User et Panier
+* Barre de navigation :
+    Affichage du logo (au clic retour sur la page d'accueil)
+    Le menu permet de naviguer facilement entre les pages Produits/ A propos / User et Panier
 
-    *Page d'accueil :
-    ...on doit retrouver un edito (un petit paragraphe susceptible de changer de façon hebdomadaire)
-    ...Afficher les produits les plus vendus du site (top 3 - 4);
-    ...Afficher les nouveaux produits
-    ...Afficher les propositions de valeurs principales de l'entreprise
-    ...Afficher les meilleurs avis clients (environs 3 - 4)
+* Page d'accueil :
+    On doit retrouver un edito (un petit paragraphe susceptible de changer de façon hebdomadaire)
+    Afficher les produits les plus vendus du site (top 3 - 4);
+    Afficher les nouveaux produits
+    Afficher les propositions de valeurs principales de l'entreprise
+    Afficher les meilleurs avis clients (environs 3 - 4)
 
-    *Pied de Page :
-    ...Afficher des liens vers la page de contact / les mentions légales / le suivit de livraison
-    ...Afficher une phrase resument les valeurs de l'entreprise
+* Pied de Page :
+    Afficher des liens vers la page de contact / les mentions légales / le suivit de livraison
+    Afficher une phrase resument les valeurs de l'entreprise
 
-    *Page Panier 
-    ...Récapitule le contenu du panier
-    ...Bouton incitatif "commander" pour finaliser la commande
-    ...Possibilité de supprimer un article du panier
-    ...Possibilité d'augmenter/diminuer la quantité de produit
+* Page Panier 
+    Récapitule le contenu du panier
+    Bouton incitatif "commander" pour finaliser la commande
+    Possibilité de supprimer un article du panier
+    Possibilité d'augmenter/diminuer la quantité de produit
 
-    *Page produit
-    ...Affiche tous les produits
-    ...Possibilité de cibler des catégories.
+* Page produit
+    Affiche tous les produits
+    Possibilité de cibler des catégories.
 # Stack : React.js React Router 
 
 # Getting Started with Create React App
